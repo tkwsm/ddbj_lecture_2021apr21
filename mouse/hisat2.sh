@@ -1,5 +1,6 @@
 #!/bin/bash
 #$ -S /bin/bash
+#$ -l short
 #$ -N hisat2
 #$ -pe def_slot 4
 #$ -cwd

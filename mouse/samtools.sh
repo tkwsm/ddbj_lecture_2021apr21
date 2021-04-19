@@ -1,6 +1,7 @@
 #!/bin/bash
 #$ -S /bin/bash
 #$ -N samtools
+#$ -l short
 #$ -pe def_slot 4
 #$ -cwd
 #$ -o ./log

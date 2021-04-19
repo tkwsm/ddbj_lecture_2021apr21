@@ -8,7 +8,6 @@
 #$ -e ./log
 
 source ~/.bashrc
-cd /home/takeshik/tanomare/lectures/ddbj_lecture_2021apr21/mouse
 
 prefixarray=( ""
               "SRR11966040" "SRR11966041" "SRR11966042"

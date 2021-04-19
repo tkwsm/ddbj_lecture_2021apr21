@@ -1,6 +1,7 @@
 #!/bin/bash
 #$ -S /bin/bash
 #$ -N stringtie
+#$ -l short
 #$ -pe def_slot 4
 #$ -cwd
 #$ -o ./log
